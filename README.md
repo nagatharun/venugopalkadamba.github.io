@@ -1,2 +1,1 @@
-# venugopalkadamba.github.io
-My resume Website.
+# MY RESUME WEBSITE
